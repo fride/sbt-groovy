@@ -6,7 +6,7 @@ organization := "org.softnetwork.sbt.plugins"
 
 version := "0.1.3"
 
-scalaVersion := "2.10.4"
+scalaVersion := "2.10.2"
 
 publishMavenStyle := true
 
